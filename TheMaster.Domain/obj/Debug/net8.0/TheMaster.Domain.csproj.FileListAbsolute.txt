@@ -1,0 +1,12 @@
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Domain\bin\Debug\net8.0\TheMaster.Domain.deps.json
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Domain\bin\Debug\net8.0\TheMaster.Domain.dll
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Domain\bin\Debug\net8.0\TheMaster.Domain.pdb
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Domain\obj\Debug\net8.0\TheMaster.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Domain\obj\Debug\net8.0\TheMaster.Domain.AssemblyInfoInputs.cache
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Domain\obj\Debug\net8.0\TheMaster.Domain.AssemblyInfo.cs
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Domain\obj\Debug\net8.0\TheMaster.Domain.csproj.CoreCompileInputs.cache
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Domain\obj\Debug\net8.0\TheMaster.Domain.dll
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Domain\obj\Debug\net8.0\refint\TheMaster.Domain.dll
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Domain\obj\Debug\net8.0\TheMaster.Domain.pdb
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Domain\obj\Debug\net8.0\ref\TheMaster.Domain.dll
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Domain\obj\Debug\net8.0\TheMaste.9C2DCD2B.Up2Date

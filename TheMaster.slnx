@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TheMaster.API/TheMaster.API.csproj" />
+  <Project Path="TheMaster.Application/TheMaster.Application.csproj" />
+  <Project Path="TheMaster.Domain/TheMaster.Domain.csproj" />
+  <Project Path="TheMaster.Infrastructure/TheMaster.Infrastructure.csproj" />
+</Solution>

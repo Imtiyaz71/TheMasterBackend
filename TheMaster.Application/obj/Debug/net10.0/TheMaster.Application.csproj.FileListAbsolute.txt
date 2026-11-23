@@ -1,0 +1,15 @@
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\bin\Debug\net10.0\TheMaster.Application.deps.json
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\bin\Debug\net10.0\TheMaster.Application.dll
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\bin\Debug\net10.0\TheMaster.Application.pdb
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\bin\Debug\net10.0\TheMaster.Domain.dll
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\bin\Debug\net10.0\TheMaster.Domain.pdb
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\obj\Debug\net10.0\TheMaster.Application.csproj.AssemblyReference.cache
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\obj\Debug\net10.0\TheMaster.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\obj\Debug\net10.0\TheMaster.Application.AssemblyInfoInputs.cache
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\obj\Debug\net10.0\TheMaster.Application.AssemblyInfo.cs
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\obj\Debug\net10.0\TheMaster.Application.csproj.CoreCompileInputs.cache
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\obj\Debug\net10.0\TheMaste.5E92BA25.Up2Date
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\obj\Debug\net10.0\TheMaster.Application.dll
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\obj\Debug\net10.0\refint\TheMaster.Application.dll
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\obj\Debug\net10.0\TheMaster.Application.pdb
+F:\Imtiyaz Project\The Master\Backend\TheMaster.Application\obj\Debug\net10.0\ref\TheMaster.Application.dll

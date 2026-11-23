@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Imtiyaz Project\\The Master\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D679949-030C-28C1-7799-45EA3043338A}|TheMaster.API\\TheMaster.API.csproj|f:\\imtiyaz project\\the master\\backend\\themaster.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D679949-030C-28C1-7799-45EA3043338A}|TheMaster.API\\TheMaster.API.csproj|solutionrelative:themaster.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Imtiyaz Project\\The Master\\Backend\\TheMaster.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TheMaster.API\\appsettings.json",
+              "ToolTip": "F:\\Imtiyaz Project\\The Master\\Backend\\TheMaster.API\\appsettings.json",
+              "RelativeToolTip": "TheMaster.API\\appsettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-21T12:17:20.04Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

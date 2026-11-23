@@ -1,0 +1,6 @@
+@TheMaster.API_HostAddress = http://localhost:5051
+
+GET {{TheMaster.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
